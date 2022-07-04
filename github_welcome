@@ -1,0 +1,3 @@
+git config — user.name “<github_welcome>”
+git config — global user.email “<kirill01052003@gmail.com>”
+cd Desktop
